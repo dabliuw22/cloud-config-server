@@ -8,3 +8,6 @@ spring:
       server:
         git:
           uri: file:/home/will/Documentos/cloud-server-config
+management:
+  security:
+    enabled: false
